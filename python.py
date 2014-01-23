@@ -1,2 +1,2 @@
-a = 'try to use new branch on git'
+a = 'for new branch on github'
 print(a)
